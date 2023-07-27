@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EEA3C8A8-C700-4A6D-821E-E40E7BE21523"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43F67A99-A7B9-4D73-BA3B-1CC1FBA59B7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/Network/Networking.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "NetworkingProvider"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "43F67A99-A7B9-4D73-BA3B-1CC1FBA59B7D - 812674fb1e5c9ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for shared"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/Network/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "43F67A99-A7B9-4D73-BA3B-1CC1FBA59B7D - b55e95bda1a189b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.NetworkingProvider.shared.unsafeMutableAddressor : ProyectoListaUsuarios.NetworkingProvider"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/Network/Networking.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B20E18ED-6168-478C-BD6C-033DA8D212E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B240A4B8-E5C3-4834-9C94-C87C27FF96AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B240A4B8-E5C3-4834-9C94-C87C27FF96AA - e4d5b553d8117978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "B240A4B8-E5C3-4834-9C94-C87C27FF96AA - e4d5b553d81146ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1D5BB6B-E44E-4401-8352-1EAAE51E8A24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1D5BB6B-E44E-4401-8352-1EAAE51E8A24 - e4d5b553d8117978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "C1D5BB6B-E44E-4401-8352-1EAAE51E8A24 - e4d5b553d8117959"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94955E0A-AE85-43FB-BF60-EBF9DACC1325"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94955E0A-AE85-43FB-BF60-EBF9DACC1325 - e4d5b553d8117978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "94955E0A-AE85-43FB-BF60-EBF9DACC1325 - e4d5b553d8117978"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86C5FA9D-29F9-4EC9-91E0-949AF1109654"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F703C4EA-6F6A-4694-A632-A9A923B45BDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/UsuarioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "UsuarioViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22E63BB3-6DAB-401B-9BDF-2660F06224A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22E63BB3-6DAB-401B-9BDF-2660F06224A8 - 278342247fe65902"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "22E63BB3-6DAB-401B-9BDF-2660F06224A8 - 278342247fe65902"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D82903F-ABC3-428F-B66A-EEE06FAC4093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63AB2E52-3FB0-4E84-9944-1C403F34E7A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63AB2E52-3FB0-4E84-9944-1C403F34E7A9 - e4d5b553d8117851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+               <Location
+                  uuid = "63AB2E52-3FB0-4E84-9944-1C403F34E7A9 - e4d5b553d8117817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1692">
+               </Location>
+               <Location
+                  uuid = "63AB2E52-3FB0-4E84-9944-1C403F34E7A9 - e4d5b553d81178f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/UsuarioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae39d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae39d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae650"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae89a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae8a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "93E8D6AC-A8D1-4B21-8831-EEDA5431E72E - 1f95a0218a7ae8a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/UsuarioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae3bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1364">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae3bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae673"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1380">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae8a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae8a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae8c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "0F29F21B-C2C4-493F-AA45-BA816C95A704 - 1f95a0218a7ae8c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BB1517B-A6A1-41E1-B22E-39748125D253"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/UsuarioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BB1517B-A6A1-41E1-B22E-39748125D253 - 1f95a0218a7ae272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "3BB1517B-A6A1-41E1-B22E-39748125D253 - 1f95a0218a7ae272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.UsuarioViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/UsuarioViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B34E201-D5DF-4C21-8205-24C9997A79F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B34E201-D5DF-4C21-8205-24C9997A79F6 - 278342247fe6595c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "1B34E201-D5DF-4C21-8205-24C9997A79F6 - 278342247fe65a39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C827E864-35E4-4FAB-A2EB-3D5F2AB2E020"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C827E864-35E4-4FAB-A2EB-3D5F2AB2E020 - 278342247fe65963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "C827E864-35E4-4FAB-A2EB-3D5F2AB2E020 - 278342247fe65ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoListaUsuarios.ViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ProyectoListaUsuarios"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jesus24/Desktop/ProyectoListaUsuarios/ProyectoListaUsuarios/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "028BA16A-DE67-4833-9536-3DD07CD53150"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "userDidEnterInformation(male:female:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "305CF1E4-F9D6-44E1-B42D-DEE8917786CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "userDidEnterInformation(male:female:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3278E8A-42CC-4252-909D-C894E8C8AFAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E262B8AF-E2E4-4673-B044-4E55289573B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "746E97D7-5E41-42B3-8C48-F3820F7F0CC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F22DE48-77BC-46A3-A7C9-AE2375530D23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B8E4082-4332-42E3-A4D8-D799139E89E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoListaUsuarios/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
